@@ -10,6 +10,9 @@ __pycache__/
 #config.py
 config.py
 
+#ratings.csv
+ratings.csv 
+
 # Distribution / packaging
 .Python
 build/
